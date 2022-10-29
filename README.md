@@ -5,7 +5,7 @@ Kaggle - https://www.kaggle.com/pyranjan/advance-regression-house-pricing-predic
 
 👋 Hi, I am Nishant Ranjan working as Architect - AI/ML and Analytics Team
 
-👀 I’m interested in machine learning and ai algorith design and implementation
+👀 I’m interested in machine learning and ai algorithm design and implementation
 
 🌱 I’m currently learning deep learning in computer vision
 
